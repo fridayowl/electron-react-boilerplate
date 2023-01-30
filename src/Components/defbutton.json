@@ -1,0 +1,21 @@
+{
+    "backgroundColor": "#4CAF50",
+    "border": "none",
+    "color": "white",
+    "padding": "15px 32px",
+    "textAlign": "center",
+    "textDecoration": "none",
+    "display": "inline-block",
+    "fontSize": "16px",
+    "height":"100px",
+    "width" :"200px",
+    "text" :"Hello",
+    "isHover":false,
+    "hoverBackgroundColor":"lightblue",
+    "margin":"0px 0px 0px 0px",
+    "borderSize":"1px",
+    "borderRadius":"5px",
+    "cursor": "pointer",
+    "boxShadow": "2px 2px 2px grey "
+
+  }
